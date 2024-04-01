@@ -53,7 +53,9 @@ Writeup for the PicoCTF2024 competition.
 </ul>
 <h4>Reverse Engineering</h4>
 <ul>
+<li>packer (100)</li>
 <li>FactCheck (200)</li>
+<li>WinAntiDbg0x100 (200)</li>
 <li>Classic Crackme 0x100 (300)</li>
 <li>weirdSnake (300)</li>
 <li>WinAntiDbg0x200 (300)</li>
