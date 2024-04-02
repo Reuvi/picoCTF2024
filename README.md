@@ -63,10 +63,10 @@ Writeup for the PicoCTF2024 competition.
 </ul>
 <h4>Web Exploitation</h4>
 <ul>
-<li>Bookmarklet (50)</li>
-<li>WebDecode (50)</li>
-<li>Unminify (100)</li>
-<li>IntroToBurp (100)</li>
-<li>No Sql Injection (200)</li>
-<li>Trickster (300)</li>
+  <li><a href="/web_exploitation/Bookmarklet/writeup.md">Bookmarklet (50)</a></li>
+  <li><a href="/web_exploitation/WebDecode/writeup.md">WebDecode (50)</a></li>
+  <li><a href="/web_exploitation/Unminify/writeup.md">Unminify (100)</a></li>
+  <li><a href="/web_exploitation/IntroToBurp/writeup.md">IntroToBurp (100)</a></li>
+  <li><a href="/web_exploitation/NoSqlInjection/writeup.md">No Sql Injection (200)</a></li>
+  <li><a href="/web_exploitation/Trickster/writeup.md">Trickster (300)</a></li>
 </ul>
