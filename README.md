@@ -67,6 +67,6 @@ Writeup for the PicoCTF2024 competition.
   <li><a href="/web_exploitation/WebDecode/writeup.md">WebDecode (50)</a></li>
   <li><a href="/web_exploitation/Unminify/writeup.md">Unminify (100)</a></li>
   <li><a href="/web_exploitation/IntroToBurp/writeup.md">IntroToBurp (100)</a></li>
-  <li><a href="/web_exploitation/NoSqlInjection/writeup.md">No Sql Injection (200)</a></li>
+  <li><a href="/web_exploitation/No Sql Injection/writeup.md">No Sql Injection (200)</a></li>
   <li><a href="/web_exploitation/Trickster/writeup.md">Trickster (300)</a></li>
 </ul>
