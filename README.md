@@ -34,11 +34,11 @@ Writeup for the PicoCTF2024 competition. (35% Complete expected final writeups b
   <li><a href="/forensics/Scan_Surprise/writeup.md">Scan Surprise (50)</a></li>
   <li><a href="/forensics/Verify/writeup.md">Verify (50)</a></li>
   <li><a href="/forensics/Secret_of_the_Polyglot/writeup.md">Secret of the Polyglot (100)</a></li>
-  <li><a href="/forensics/CanYouSee/writeup.md">CanYouSee (100)</a></li>
+  <li><a href="">CanYouSee (100)</a></li>
   <li><a href="/forensics/Mob_psycho/writeup.md">Mob psycho (200)</a></li>
-  <li><a href="/forensics/endianness-v2/writeup.md">endianness-v2 (300)</a></li>
-  <li><a href="/forensics/Blast_from_the_past/writeup.md">Blast from the past (300)</a></li>
-  <li><a href="/forensics/Dear_Diary/writeup.md">Dear Diary (400)</a></li>
+  <li><a href="">endianness-v2 (300)</a></li>
+  <li><a href="">Blast from the past (300)</a></li>
+  <li><a href="">Dear Diary (400)</a></li>
 </ul>
 
 <h4>General Skills</h4>
