@@ -61,7 +61,7 @@ Writeup for the PicoCTF2024 competition.
   <li><a href="/reverse_engineering/FactCheck/writeup.md">FactCheck (200)</a></li>
   <li><a href="/reverse_engineering/WinAntiDbg0x100/writeup.md">WinAntiDbg0x100 (200)</a></li>
   <li><a href="/reverse_engineering/Classic_Crackme_0x100/writeup.md">Classic Crackme 0x100 (300)</a></li>
-  <li><a href="/reverse_engineering/weirdSnake/writeup.md">weirdSnake (300)</a></li>
+  <li><a href="">weirdSnake (300)</a></li>
   <li><a href="/reverse_engineering/WinAntiDbg0x200/writeup.md">WinAntiDbg0x200 (300)</a></li>
   <li><a href="/reverse_engineering/WinAntiDbg0x300/writeup.md">WinAntiDbg0x300 (400)</a></li>
 </ul>
