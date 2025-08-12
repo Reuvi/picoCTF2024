@@ -1,5 +1,5 @@
 # PicoCTF2024
-Writeup for the PicoCTF2024 competition.
+Writeup for the PicoCTF2024 competition. (Some Writeups Incomplete)
 
 <h2>Our Scores:</h2>
 <img width="1166" alt="Screen Shot 2023-04-05 at 3 27 40 PM" src="https://github.com/Reuvi/picoCTF2024/assets/88282354/02c593f8-d203-4cd4-80a6-5b05175be841.png">
@@ -7,7 +7,7 @@ Writeup for the PicoCTF2024 competition.
 <h3>Global Rank: #65(tied with 54) </h3>
 
 <h3>High-School-Rank: #12(tied with 9) </h3>
-<h1>Challenges (Some Writeups Incomplete) </h1>
+<h1>Challenges</h1>
 <h4>Binary Exploitation</h4>
 <ul>
   <li><a href="/binary_exploitation/format_string_0/writeup.md">format string 0 (50)</a></li>
