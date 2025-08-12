@@ -7,7 +7,7 @@ Writeup for the PicoCTF2024 competition.
 <h3>Global Rank: #65(tied with 54) </h3>
 
 <h3>High-School-Rank: #12(tied with 9) </h3>
-<h1>Challenges</h1>
+<h1>Challenges (Some Writeups Incomplete) </h1>
 <h4>Binary Exploitation</h4>
 <ul>
   <li><a href="/binary_exploitation/format_string_0/writeup.md">format string 0 (50)</a></li>
